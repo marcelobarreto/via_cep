@@ -22,5 +22,5 @@ Gem::Specification.new do |s|
   s.executables   = ['zipcode']
   s.require_paths = ['lib']
 
-  s.add_dependency 'activesupport', '~> 5.0'
+  s.add_dependency 'activesupport', '>= 5', '< 7'
 end
