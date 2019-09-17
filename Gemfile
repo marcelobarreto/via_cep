@@ -7,7 +7,7 @@ source 'https://rubygems.org'
 gemspec
 
 group :test do
-  gem 'codeclimate-test-reporter', '~> 0.6'
+  gem 'codeclimate-test-reporter', '~> 1.0'
   gem 'rubocop', '~> 0.49.0'
   gem 'rspec', '~> 3.5'
 end
