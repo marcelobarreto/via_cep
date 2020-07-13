@@ -8,6 +8,6 @@ gemspec
 
 group :test do
   gem 'codeclimate-test-reporter', '~> 0.6'
-  gem 'rubocop', '~> 0.86.0'
+  gem 'rubocop', '~> 0.87.1'
   gem 'rspec', '~> 3.5'
 end
