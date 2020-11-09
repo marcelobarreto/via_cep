@@ -9,5 +9,5 @@ group :test do
   gem 'codeclimate-test-reporter', '~> 0.6'
   gem 'rake', '~> 13.0.1'
   gem 'rspec', '~> 3.5'
-  gem 'rubocop', '~> 0.92.0'
+  gem 'rubocop', '~> 1.2.0'
 end
